@@ -14,7 +14,14 @@ pipeline {
         }
         stage('Package') {
             steps {
+<<<<<<< HEAD
                echo "packagest completed successfully"
+=======
+
+
+               echo "packageS completed successfully"
+
+>>>>>>> 97016b33215f90acd39f6204d43dac1b9a8f4458
             }
         }
   
